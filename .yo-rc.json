@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authenticationType": "jwt",
+    "baseName": "9edi",
+    "blueprints": [
+      {
+        "name": "generator-jhipster-azure-spring-apps",
+        "version": "1.0.17"
+      }
+    ],
+    "buildTool": "maven",
+    "cacheProvider": "no",
+    "clientFramework": "react",
+    "clientPackageManager": "npm",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "enableHibernateCache": false,
+    "enableSwaggerCodegen": false,
+    "enableTranslation": true,
+    "entities": [],
+    "gitCompany": "",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "8.1.0",
+    "languages": ["en"],
+    "messageBroker": false,
+    "nativeLanguage": "en",
+    "packageFolder": "com/edi/sea",
+    "packageName": "com.edi.sea",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "testFrameworks": [],
+    "useSass": true,
+    "websocket": false,
+    "withAdminUi": true
+  },
+  "git-company": "tagqaedi",
+  "git-provider": "GitHub",
+  "repository-name": "jhipster-sample-application"
+}
